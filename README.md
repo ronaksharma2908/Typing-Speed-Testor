@@ -60,3 +60,4 @@ HTML5 • CSS3 • JavaScript • DOM Manipulation • Local Storage
 ```bash
 git clone https://github.com/your-username/typing-speed-tester.git
 cd typing-speed-tester
+.......
