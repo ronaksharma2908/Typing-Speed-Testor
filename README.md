@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Tester
+# ⌨️ TypeForge
 
 <div align="center">
 
