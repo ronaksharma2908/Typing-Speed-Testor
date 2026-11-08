@@ -54,7 +54,7 @@ Measure your **WPM (speed)**, **accuracy**, and **errors** in real time.
 ## 🛠️ Technologies
 HTML5 • CSS3 • JavaScript • DOM Manipulation • Local Storage
 
----.. to be proceed further with Typeforge
+
 
 ## ▶️ How to Run
 ```bash
